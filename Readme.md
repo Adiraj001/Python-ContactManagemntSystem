@@ -1,7 +1,3 @@
-Here’s a clean, professional **README.md** you can use for this project, written based directly on your uploaded `index.py` source code .
-
----
-
 # 📇 Contact Management System (Python + Tkinter)
 
 A desktop-based **Contact Management System** built using **Python**, **Tkinter**, and **SQLite**.
